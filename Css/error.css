@@ -36,12 +36,16 @@
     letter-spacing: .5px;
   }
 
-  h3{
+  h3, h2{
     color: #eeeeee;
     font-size: 30px;
     font-weight: 700;
     font-family: 'lato';
     padding-top: 2rem;
+  }
+
+   h2{
+    padding-top: .1rem;
   }
 
   ul{
